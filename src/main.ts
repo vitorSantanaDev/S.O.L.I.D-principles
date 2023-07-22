@@ -1,2 +1,3 @@
-import './SRP/main';
-import './OCP/main';
+// import './SRP/main';
+// import './OCP/main';
+import './LSP/main';
